@@ -1,3 +1,3 @@
 # mbentley/voyager
 
-This is just a direct mirror of `ghcr.io/aeharding/voyager:latest`
+This is a direct mirror of `ghcr.io/aeharding/voyager:latest`
